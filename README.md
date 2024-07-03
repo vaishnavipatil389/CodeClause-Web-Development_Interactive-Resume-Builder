@@ -1,2 +1,2 @@
-# CodeClause-Web-Development_Interactive-Resume-Builder
-This is intermediate level TASK-2 at CodeClause Internship in web development
+# Resumebuilder
+this is a project of resume builder using HTML,CSS and Javascript
